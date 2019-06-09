@@ -1,2 +1,2 @@
 # Exim4_Gmail_conf
-exim4 configuration file for fast gmail integration
+exim4 configuration file for fast gmail integration (forced TLS)
