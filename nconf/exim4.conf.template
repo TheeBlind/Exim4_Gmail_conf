@@ -1829,7 +1829,7 @@ begin retry
 ######################################################################
 
 begin rewrite
-* {local_ip}@{username}.{hostname} Ffrs
+* chengeme Ffrs
 
 #####################################################
 ### end rewrite/00_exim4-config_header
