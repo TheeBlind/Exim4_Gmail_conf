@@ -898,7 +898,7 @@ begin retry
 *                      *           F,2h,15m; G,16h,1h,1.5; F,4d,6h
 
 begin rewrite
-* {local_ip}@{username}.{hostname} Ffrs
+* chengeme Ffrs
 
 .ifndef NO_EAA_REWRITE_REWRITE
 *@+local_domains "${lookup{${local_part}}lsearch{/etc/email-addresses}\
